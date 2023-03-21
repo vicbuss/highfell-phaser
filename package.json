@@ -1,0 +1,11 @@
+{
+  "name": "highfell-phaser",
+  "version": "1.0.0",
+  "description": "A CLI utility to determine Highfell's location ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vicbuss",
+  "license": "ISC"
+}
